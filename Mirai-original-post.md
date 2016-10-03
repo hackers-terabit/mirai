@@ -1,6 +1,7 @@
 # Following is a post by Anna-Senpai of hackforums original thread: http://hackforums.net/showthread.php?tid=5420472&highlight=mirai
-I'm keeping this here as a backup and for future refrence/ease-of access (for those without HF account). 
+I'm keeping this here as a backup and for future refrence/ease-of access (for those without HF account). :
 -----------------------------------------------------------------------------
+---   ---  ----- ------------------
 Preface
 Greetz everybody,
 
